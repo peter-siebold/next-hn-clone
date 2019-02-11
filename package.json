@@ -1,0 +1,21 @@
+{
+  "name": "hacker-news-next",
+  "version": "1.0.0",
+  "description": "A HAcker News clone made with Next.js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start",
+    "deploy": "cd out && now --public"
+  },
+  "author": "peter-siebold",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^8.0.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}

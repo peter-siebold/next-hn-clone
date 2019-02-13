@@ -1,0 +1,20 @@
+{
+    "name": "Next HN Clone",
+    "short_name": "A simple Hacker News Clone made with NExt.js",
+    "lang": "de-DE",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#f60",
+    "icons": [
+      {
+        "src": "/static/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/static/icons/icon-512x512.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
